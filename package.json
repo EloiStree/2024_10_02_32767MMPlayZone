@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.elab.netshortspace",                              
+  "displayName": "Network Square Short 65 Meters",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "If you do a multiplayer game use 32767mm space allows to store coordinate in a 2 bytes short information. Half the size of float. This page give a cube and some script to help in that direction.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"Eloi stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_10_02_32767MMPlayZone.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
